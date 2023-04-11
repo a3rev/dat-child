@@ -1,13 +1,13 @@
 /*
-Theme Name:       DAT Blank Child Theme
+Theme Name:       DAT Child Theme
 Theme URI:        http://www.a3rev.com/
-Description: Introducing Dat, the ultimate WordPress Block theme. With 100% WooCommerce compatibility, it's perfect for any site. Its intuitive block-based design makes customization a breeze. Try it now!
+Description: DAT Child Theme requires the parent DAT theme to be installed and activated BEFORE it can be activated. Using a child theme is recommended as modifications made to the theme will not be lost when the parent theme is updated.
 Author: a3rev Software
 Author URI:       http://www.a3rev.com
 Tags:             dat
 Template:         dat
 Template Version: 6.1
-Text Domain:      dat-blank-child
+Text Domain:      dat-child
 Domain Path:      /languages
 Version:          1.0.0
 
